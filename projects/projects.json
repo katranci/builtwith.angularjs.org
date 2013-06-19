@@ -1519,6 +1519,24 @@
         "Mobile",
         "jQuery"
       ]
+    },
+    {
+      "name": "Gündemim",
+      "thumb": "gundemim/thumb.png",
+      "desc": "Gündemim ile her gün okuduğunuz köşe yazarlarını kolayca takip edebilirsiniz.",
+      "url": "http://gundemim.com/",
+      "submitter": "katranci",
+      "submissionDate": "2013-06-19",
+      "tags": [
+        "No jQuery",
+        "Responsive",
+        "Local Storage",
+        "Social Network",
+        "CSS3",
+        "Mobile",
+        "PhoneGap",
+        "Production"
+      ]
     }
   ]
 }
